@@ -1,0 +1,14 @@
+Essay submission to TrueOrigin.org
+
+I believe that Scripture is literally true, including its account of creation. I also believe that modern science is indispensable for understanding and navigating the future. In this essay, I argue that these commitments are not in conflict, by examining Hans Reichenbach’s response to David Hume’s problem of induction.
+
+Consider the following problem: The sun has risen in the morning every day in the past. How do we know that tomorrow the sun will rise? Hume generalized this question by asking how we can justify the inference from observed cases to unobserved cases without circularity. We humans do this all the time, yet the answer to this question has puzzled philosophers.
+
+For instance, I once asked a non-philosopher how we know that the sun will rise tomorrow, given that it has risen every day in the past. She replied, “Because the appearance of the sun rising is the result of the earth spinning on its axis every day. Since the earth always spins on its axis, we can expect that the sun will rise tomorrow morning.”
+
+While her statement is scientifically accurate, philosophically it is circular. I could have challenged her by asking, “But how do we know that the earth will continue spinning on its axis tomorrow?” Perhaps she would have responded, “Because nothing is stopping the earth from spinning on its axis.” But I suspect she would not have understood the essence of my question.
+
+I do not mean this as an insult. I once asked a PhD chemist the same question and received a similar answer. Most modern people are trained to think in this scientific way, which is natural given that we live in an age shaped by scientific explanation.
+
+But to truly understand nature, I think it is essential to have a good answer to Hume's problem of induction, since without a good answer there is no reason to believe anything in science, as science is based on induction. The only answer in the literature that I have found to Hume's problem of induction is Hans Reichenbach's pragmatic answer.
+
